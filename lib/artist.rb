@@ -43,4 +43,3 @@ class Artist
     self.songs.each {|song| song.name}
   end
 end
-end
